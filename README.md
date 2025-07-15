@@ -16,7 +16,7 @@ I’m learning DevOps with a focus on practical, job-ready skills. This repo wil
 ### Progress:
 - [x] Installed Ubuntu VM
 - [x] Wrote first Bash script
-- [ ] Practiced file permissions
+- [x] Practiced file permissions
 - [ ] Reviewed `systemctl` and services
 
 ---
